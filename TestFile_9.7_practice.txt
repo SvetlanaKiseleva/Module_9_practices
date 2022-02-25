@@ -1,1 +1,1 @@
-So, what is Git in a nutshell? This is an important section to absorb, because if you understand what Git is and the fundamentals of how it works, then using Git effectively will probably be much easier for you.
+Audaces fortuna juvat.
