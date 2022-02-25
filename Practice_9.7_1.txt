@@ -1,1 +1,1 @@
-Git не хранит данные в виде последовательности изменений, он использует набор снимков (snapshot).
+There are a lot of different ways to use Git. There are the original command-line tools, and there are many graphical user interfaces of varying capabilities.
